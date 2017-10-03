@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "9efce59e-e4f6-4da5-85ed-059670f0ffd5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "newqqface0123_1": {
+      "ver": "1.0.3",
+      "uuid": "3236b1eb-891d-4e6b-9f97-3e5843e66dd4",
+      "rawTextureUuid": "9efce59e-e4f6-4da5-85ed-059670f0ffd5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 9,
+      "trimY": 4,
+      "width": 38,
+      "height": 47,
+      "rawWidth": 56,
+      "rawHeight": 56,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
